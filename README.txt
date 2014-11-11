@@ -1,16 +1,4 @@
  
-	Position Applied:Performance Engineering Intern -MATLAB Performance
-	Name of Candidate:Soham Ghormade
-
-	Task:
-	Implement (in C++, MATLAB, or Java) a Fraction class that supports the following operations: 
-	addition, subtraction,multiplication, division, equality/non-equality, greater than/less than, and display. 
-	The project should take on the order of several hours. If you have some ideas that would take longer to implement please write them down for discussion.
-
-	Solution:
-	Language chosen : C++ 
-	IDE :Visual Studio 2010 Ultimate
-	Concept Used:Operator Overloading
 	
 	Summary
 	The Fraction class has one data member an array of size 2 .
